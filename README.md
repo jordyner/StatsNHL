@@ -1,0 +1,1 @@
+This app provices some basic statistics about National Hockey League, such as some news, current rankings etc. The whole app is written in C# with support of WPF framework. Detailed discription can be found in prezentace.pptx (in czech language)
