@@ -1,0 +1,75 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:custom="clr-namespace:StatsNHL.CustomControls">
+
+    <custom:BoolToVisibiltyConverter x:Key="boolToVisibiltyConverter" />
+    <custom:NewsConvertor x:Key="newsImageConverter" ></custom:NewsConvertor>
+
+    <Style TargetType="{x:Type custom:NewsCustomControl}" BasedOn="{StaticResource {x:Type ToggleButton}}">
+        <Setter Property="Background" Value="Black"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type custom:NewsCustomControl}">
+                    <Border Background="{TemplateBinding Background}"
+                            BorderBrush="{TemplateBinding BorderBrush}"
+                            BorderThickness="{TemplateBinding BorderThickness}"
+                            CornerRadius="4,4,4,4">
+                        <StackPanel>
+                            <StackPanel Visibility="{TemplateBinding IsChecked,
+                                    Converter={StaticResource boolToVisibiltyConverter},
+                                    ConverterParameter=True}" Height="275" Width="550">
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="165" />
+                                        <RowDefinition Height="110"/>
+                                    </Grid.RowDefinitions>
+
+                                    <TextBlock Text="{Binding Title}" Grid.Row="1" Foreground="White"  FontSize="17" Margin="15,35,0,0" HorizontalAlignment="Left">
+                                    </TextBlock>
+                                </Grid>
+                            </StackPanel>
+                            <StackPanel Visibility="{TemplateBinding IsChecked,
+                                    Converter={StaticResource boolToVisibiltyConverter},
+                                    ConverterParameter=False}" Height="275" Width="550">
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="75" />
+                                        <RowDefinition Height="200"/>
+                                    </Grid.RowDefinitions>
+
+                                    <TextBlock Text="{Binding Content}" Grid.Row="1" FontSize="12" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" TextWrapping="Wrap" Width="auto"  Margin="10 0 70 0">
+
+                                        <TextBlock.Effect>
+                                            <DropShadowEffect ShadowDepth="1"
+                                                Color="Black"
+                                                Opacity="1"/>
+                                        </TextBlock.Effect>
+                                    </TextBlock>
+                                </Grid>
+                                
+                            </StackPanel>
+                        </StackPanel>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+
+        <Style.Triggers>
+            <Trigger Property="IsChecked" Value="True">
+                <Setter Property="Background">
+                    <Setter.Value>
+                        <ImageBrush ImageSource="{Binding Image}"/>
+                    </Setter.Value>
+                </Setter>
+            </Trigger>
+            <Trigger Property="IsChecked" Value="False">
+                <Setter Property="Background">
+                    <Setter.Value>
+                        <ImageBrush ImageSource="{Binding SecondImage}"/>
+                    </Setter.Value>
+                </Setter>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+</ResourceDictionary>

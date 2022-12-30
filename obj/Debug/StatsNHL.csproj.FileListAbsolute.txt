@@ -1,0 +1,61 @@
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\bin\Debug\StatsNHL.exe.config
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\bin\Debug\StatsNHL.exe
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\bin\Debug\StatsNHL.pdb
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\bin\Debug\FantasyData.Api.Client.dll
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\StatsNHL.csprojAssemblyReference.cache
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\MainWindow.g.cs
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\App.g.cs
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\StatsNHL_MarkupCompile.cache
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\StatsNHL_MarkupCompile.lref
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\MainWindow.baml
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\StatsNHL.g.resources
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\StatsNHL.Properties.Resources.resources
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\StatsNHL.csproj.GenerateResource.cache
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\StatsNHL.csproj.CoreCompileInputs.cache
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\StatsNHL.csproj.CopyComplete
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\StatsNHL.exe
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\StatsNHL.pdb
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\App.baml
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\View\StandingsView.g.cs
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\View\StandingsView.baml
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\View\PlayerStatsView.g.cs
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\View\ResultsView.g.cs
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\View\ScheduleView.g.cs
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\View\PlayerStatsView.baml
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\View\ResultsView.baml
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\View\ScheduleView.baml
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\Theme\ButtonTheme.baml
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\View\StandingByConfView.g.cs
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\View\StandingByDivView.g.cs
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\View\StandingByConfView.baml
+C:\Users\Jordyner\Desktop\Semestralka IUR\StatsNHL\obj\Debug\View\StandingByDivView.baml
+C:\Users\jordy\Desktop\new_version\StatsNHL\bin\Debug\StatsNHL.exe.config
+C:\Users\jordy\Desktop\new_version\StatsNHL\bin\Debug\StatsNHL.exe
+C:\Users\jordy\Desktop\new_version\StatsNHL\bin\Debug\StatsNHL.pdb
+C:\Users\jordy\Desktop\new_version\StatsNHL\bin\Debug\FantasyData.Api.Client.dll
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\Themes\TextBoxTheme.baml
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\MainWindow.g.cs
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\View\NewsView.g.cs
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\View\ResultsView.g.cs
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\View\ScheduleView.g.cs
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\View\StandingsView.g.cs
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\App.g.cs
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\StatsNHL_MarkupCompile.cache
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\StatsNHL_MarkupCompile.lref
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\App.baml
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\MainWindow.baml
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\Themes\ButtonTheme.baml
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\Themes\NewsTheme.baml
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\View\NewsView.baml
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\View\ResultsView.baml
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\View\ScheduleView.baml
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\View\StandingsView.baml
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\StatsNHL.g.resources
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\StatsNHL.Properties.Resources.resources
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\StatsNHL.csproj.GenerateResource.cache
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\StatsNHL.csproj.CoreCompileInputs.cache
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\StatsNHL.csproj.CopyComplete
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\StatsNHL.exe
+C:\Users\jordy\Desktop\new_version\StatsNHL\obj\Debug\StatsNHL.pdb
